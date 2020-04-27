@@ -123,7 +123,7 @@ td.boxtitle		{ font-size:18px; font-weight:bold; padding:3px 4px 2px 4px; color:
 .repsubtitle		{ font-size:20px; font-weight:bold; color:#FFFFFF; }
 
 ul			{ list-style-image:url(images/dot1.gif); }
-select			{ font-family:"Open Sans", Calibri, Helvetica, Verdana, Geneva, Arial, sans-serif; font-size:13px; font-weight:normal; text-align:left; color:#F0F0F0; background-color:#FFFFFF; }
+select			{ font-family:"Open Sans", Calibri, Helvetica, Verdana, Geneva, Arial, sans-serif; font-size:13px; font-weight:normal; text-align:left; color:#000000; background-color:#FFFFFF; }
 
 .sdl_off             	{ background-color:#5B5956; }
 .sdl_empty             	{ background-color:#5B5956; }
